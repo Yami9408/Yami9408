@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I'm Yamilé Reynoso 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&username=Yami9408&count_private=true)](https://github.com/Yami9408)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=Yami9408&layout=compact&langs_count=10)](https://github.com/Yami9408)
 <!--
 **Yami9408/Yami9408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
